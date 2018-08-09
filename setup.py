@@ -4,7 +4,7 @@
 
 #python setup.py sdist upload
 
-#from setuptools import setup
+from setuptools import setup
 from stratum import version
 
 setup(name='stratum',
